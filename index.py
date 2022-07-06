@@ -77,5 +77,6 @@ while True:
         opc = int(input('Digite uma opção válida: '))
         print() # Saída limpa do código
         t.sleep(1)  # Descanso de 1 segundo
+        # Olá Git
 
 
